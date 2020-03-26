@@ -1,5 +1,5 @@
 # Mineko
-Una aventura virtual en texto escrita en phyton.
+Una aventura virtual en texto escrita en python.
 
 mineko 1.0 alpha
 
